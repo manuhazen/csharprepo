@@ -7,8 +7,9 @@ namespace Etapa_1
     {
         static void Main(string[] args)
         {
-            var escuela = new Escuela("ITESA", 1930, "Bogota", "Colombia");
-            Console.WriteLine(escuela.Name);
+            var escuela = new Escuela("ITESA", 1930, TipoDeEscuela.Secundaria, city: "Santo Domingo", country: "Dominican Republic");
+            escuela.Type = TipoDeEscuela.Primaria;
+            Console.WriteLine(escuela);
         }
     }
 }

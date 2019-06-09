@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Work\\Backend\\CoreSchool\\Etapa 1\\Etapa 1.csproj": {}
+    "D:\\Work\\Backend\\csharprepo\\CoreSchool\\Etapa 1\\Etapa 1.csproj": {}
   },
   "projects": {
-    "D:\\Work\\Backend\\CoreSchool\\Etapa 1\\Etapa 1.csproj": {
+    "D:\\Work\\Backend\\csharprepo\\CoreSchool\\Etapa 1\\Etapa 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Work\\Backend\\CoreSchool\\Etapa 1\\Etapa 1.csproj",
+        "projectUniqueName": "D:\\Work\\Backend\\csharprepo\\CoreSchool\\Etapa 1\\Etapa 1.csproj",
         "projectName": "Etapa 1",
-        "projectPath": "D:\\Work\\Backend\\CoreSchool\\Etapa 1\\Etapa 1.csproj",
+        "projectPath": "D:\\Work\\Backend\\csharprepo\\CoreSchool\\Etapa 1\\Etapa 1.csproj",
         "packagesPath": "C:\\Users\\manuh\\.nuget\\packages\\",
-        "outputPath": "D:\\Work\\Backend\\CoreSchool\\Etapa 1\\obj\\",
+        "outputPath": "D:\\Work\\Backend\\csharprepo\\CoreSchool\\Etapa 1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

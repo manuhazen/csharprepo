@@ -9,3 +9,14 @@ D:\Work\Backend\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.AssemblyInfoI
 D:\Work\Backend\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.AssemblyInfo.cs
 D:\Work\Backend\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.dll
 D:\Work\Backend\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.pdb
+D:\Work\Backend\csharprepo\CoreSchool\Etapa 1\bin\Debug\netcoreapp2.2\Etapa 1.deps.json
+D:\Work\Backend\csharprepo\CoreSchool\Etapa 1\bin\Debug\netcoreapp2.2\Etapa 1.runtimeconfig.json
+D:\Work\Backend\csharprepo\CoreSchool\Etapa 1\bin\Debug\netcoreapp2.2\Etapa 1.runtimeconfig.dev.json
+D:\Work\Backend\csharprepo\CoreSchool\Etapa 1\bin\Debug\netcoreapp2.2\Etapa 1.dll
+D:\Work\Backend\csharprepo\CoreSchool\Etapa 1\bin\Debug\netcoreapp2.2\Etapa 1.pdb
+D:\Work\Backend\csharprepo\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.csprojAssemblyReference.cache
+D:\Work\Backend\csharprepo\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.csproj.CoreCompileInputs.cache
+D:\Work\Backend\csharprepo\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.AssemblyInfoInputs.cache
+D:\Work\Backend\csharprepo\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.AssemblyInfo.cs
+D:\Work\Backend\csharprepo\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.dll
+D:\Work\Backend\csharprepo\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.pdb
