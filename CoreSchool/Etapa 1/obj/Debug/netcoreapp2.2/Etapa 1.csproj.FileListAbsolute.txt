@@ -20,3 +20,14 @@ D:\Work\Backend\csharprepo\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.As
 D:\Work\Backend\csharprepo\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.AssemblyInfo.cs
 D:\Work\Backend\csharprepo\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.dll
 D:\Work\Backend\csharprepo\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.pdb
+C:\Users\Jimenez\Documents\Coding\csharprepo\CoreSchool\Etapa 1\bin\Debug\netcoreapp2.2\Etapa 1.deps.json
+C:\Users\Jimenez\Documents\Coding\csharprepo\CoreSchool\Etapa 1\bin\Debug\netcoreapp2.2\Etapa 1.runtimeconfig.json
+C:\Users\Jimenez\Documents\Coding\csharprepo\CoreSchool\Etapa 1\bin\Debug\netcoreapp2.2\Etapa 1.runtimeconfig.dev.json
+C:\Users\Jimenez\Documents\Coding\csharprepo\CoreSchool\Etapa 1\bin\Debug\netcoreapp2.2\Etapa 1.dll
+C:\Users\Jimenez\Documents\Coding\csharprepo\CoreSchool\Etapa 1\bin\Debug\netcoreapp2.2\Etapa 1.pdb
+C:\Users\Jimenez\Documents\Coding\csharprepo\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.csprojAssemblyReference.cache
+C:\Users\Jimenez\Documents\Coding\csharprepo\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.csproj.CoreCompileInputs.cache
+C:\Users\Jimenez\Documents\Coding\csharprepo\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.AssemblyInfoInputs.cache
+C:\Users\Jimenez\Documents\Coding\csharprepo\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.AssemblyInfo.cs
+C:\Users\Jimenez\Documents\Coding\csharprepo\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.dll
+C:\Users\Jimenez\Documents\Coding\csharprepo\CoreSchool\Etapa 1\obj\Debug\netcoreapp2.2\Etapa 1.pdb

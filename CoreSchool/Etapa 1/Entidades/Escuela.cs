@@ -7,6 +7,7 @@ namespace CoreScuela.Entidades
         public string City { get; set; }
         public string Country { get; set; }
         public TipoDeEscuela Type { get; set; }
+        public Curso[] Courses { get; set; }
 
         // public Escuela(string name, int founded)
         // {

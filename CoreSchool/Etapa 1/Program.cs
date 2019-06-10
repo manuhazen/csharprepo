@@ -1,6 +1,6 @@
 ﻿using System;
 using CoreScuela.Entidades;
-
+using static System.Console;
 namespace Etapa_1
 {
     class Program
@@ -8,19 +8,27 @@ namespace Etapa_1
         static void Main(string[] args)
         {
             var escuela = new Escuela("ITESA", 1930, TipoDeEscuela.Secundaria, city: "Santo Domingo", country: "Dominican Republic");
-            var curso = new Curso()
-            {
-                Name = "301"
+            escuela.Courses = new Curso[] {
+                new Curso(){ Name = "301"},
+                new Curso(){ Name = "201"},
+                new Curso(){ Name = "101"},
             };
-            Console.WriteLine(escuela);
+            escuela.Courses = null;
+            WriteLine(escuela);
+            WriteLine("=====================================");
+            PrintCourses(escuela.Courses);
         }
 
-        private static void PrintCourses(Curso[] courses)
+        private static void PrintCourses(Escuela escuela)
         {
-            foreach (Curso c in courses)
+            if (escuela?.Courses != null)
             {
-                Console.WriteLine($"Nombre: {c.Name}, ID: {c.UniqueID}");
+                foreach (Curso c in escuela.Courses)
+                {
+                    WriteLine($"Nombre: {c.Name}, ID: {c.UniqueID}");
+                }
             }
+
         }
     }
 }
